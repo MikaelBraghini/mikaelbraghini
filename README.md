@@ -9,9 +9,9 @@ public class Mikael {
 ```
 
 <div>
-  <a href="https://github.com/eualbino">
+  <a href="https://github.com/MikaelBraghini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MikaelBraghini&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelbraghini&layout=compact&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelBraghini&layout=compact&theme=tokyonight">
 </div><br>
   
 
