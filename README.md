@@ -34,3 +34,5 @@ public class Mikael {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MikaelBraghini&icon=3&color=6)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/MikaelBraghini/MikaelBraghini/blob/output/github-contribution-grid-snake.svg)
