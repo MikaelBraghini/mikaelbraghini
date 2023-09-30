@@ -38,6 +38,8 @@ public class Mikael {
         <img src="https://github-contributor-stats.vercel.app/api?username=mikaelbraghini&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelbraghini&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mikaelbraghini&icon=3&color=6)](https://visitcount.itsvg.in)
 
