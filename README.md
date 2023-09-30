@@ -8,12 +8,7 @@ public class Mikael {
 }
 ```
 
-<div>
-  <a href="https://github.com/MikaelBraghini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MikaelBraghini&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelBraghini&layout=compact&theme=tokyonight">
-</div><br>
-  
+
 
 
 ## 🌐 Socials:
@@ -29,12 +24,6 @@ public class Mikael {
 
 ### 🔝 Top Contributed Repo
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelbraghini&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mikaelbraghini&icon=3&color=6)](https://visitcount.itsvg.in)
 
 
 
