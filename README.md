@@ -7,16 +7,14 @@ public class Mikael {
     private int agr = 20;
 }
 ```
-## COZCXOCZXOOCZX
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikael_braghini) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
 
 <div style="display: flex; flex-direction: row; flex: 1" align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelbraghini&layout=compact&theme=dracula&langs_count=8" height="150em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mikaelbraghini&show_icons=true&theme=dracula"  height="150em"/>
 </div>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikael_braghini) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
 
 # 💻 Tech Stack:
 
