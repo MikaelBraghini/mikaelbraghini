@@ -1,5 +1,3 @@
-# Olá! Sou Mikael Braghini
-
 ```java
 public class Mikael {
     private String name = "Mikael Braghini";
