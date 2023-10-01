@@ -1,7 +1,7 @@
 ```java
 public class Mikael {
     private String name = "Mikael Braghini";
-    private String Country = "Brazil";
+    private String country = "Brazil";
     private int agr = 20;
 }
 ```
