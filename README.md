@@ -1,4 +1,4 @@
-### Salve salve! Sou Mikael Braghini 👋
+### Salve salve! Sou Mikael Braghini 👋 ![]('https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif')
 
 ```java
 public class Mikael {
@@ -25,13 +25,10 @@ public class Mikael {
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelbraghini&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact>
 </div>
 
-
 ### 🔝 Top Contributed Repo
 <div align=center>
     <img src=https://github-contributor-stats.vercel.app/api?username=mikaelbraghini&limit=5&theme=radical&combine_all_yearly_contributions=true>
 </div>
-
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelBraghini/MikaelBraghini/output/github-contribution-grid-snake-dark.svg" />
