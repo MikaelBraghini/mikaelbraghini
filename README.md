@@ -17,8 +17,8 @@ public class Mikael {
 
 # 📊 GitHub Stats:
 <div align=center>
-    <img src=https://github-readme-stats.vercel.app/api?username=mikaelbraghini&theme=omni&hide_border=false&include_all_commits=false&count_private=true>
-    <img src=https://github-readme-streak-stats.herokuapp.com/?user=mikaelbraghini&theme=omni&hide_border=false>
+    <img width=400 src=https://github-readme-stats.vercel.app/api?username=mikaelbraghini&theme=omni&hide_border=false&include_all_commits=false&count_private=true>
+    <img width=440 src=https://github-readme-streak-stats.herokuapp.com/?user=mikaelbraghini&theme=omni&hide_border=false>
 </div>
 
 <div align=center>
