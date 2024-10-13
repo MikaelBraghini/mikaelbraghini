@@ -21,12 +21,6 @@ public class Mikael {
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelBraghini&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact>
 </div>
 
-### 🔝 Top Contributed Repo
-</br>
-<div align=center>
-    <img src=https://github-contributor-stats.vercel.app/api?username=MikaelBraghini&limit=5&theme=radical&combine_all_yearly_contributions=true>
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelBraghini/MikaelBraghini/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikaelBraghini/MikaelBraghini/output/github-contribution-grid-snake.svg" />
